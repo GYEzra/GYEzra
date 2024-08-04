@@ -6,8 +6,10 @@
 
 Tôi là <strong>Phạm Duy Khánh</strong> đây!
 
-- <i>Hiện nay: </i> Sinh viên của trường Đại học Ngoại ngữ - Tin học TP.HCM.
-- <i>Trước đó: </i> Thực tập sinh tại FPT Software.
+- <i>Tình trạng: </i> Sinh viên của trường Đại học Ngoại ngữ - Tin học TP.HCM.
+- <i>Công việc trước đó: </i> FrontEnd tại FPT Software.
+- <i>Công việc hiện tại: Fullstack tại Nashtech.</i>
+- <i>Cấp bậc: Fresher</i>
 
 Tôi là một lập trình viên Fullstack với mục tiêu hướng đến phát triển và bảo trì các ứng dụng web mang đến trải nghiệm cho người dùng với các thiết kế giao diện đẹp mắt và chức năng hiệu quả. Tôi có khả năng làm việc nhóm tốt và hiểu biết về các quy trình phát triển như Agile, Scrum.
 
@@ -63,8 +65,8 @@ Tôi là một lập trình viên Fullstack với mục tiêu hướng đến ph
 </br>
 
 <a style="margin-right:20px;" href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=phamduykhanh2k&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GYEzra&layout=compact&langs_count=8&card_width=300" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=phamduykhanh2k" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GYEzra" />
 </a>
